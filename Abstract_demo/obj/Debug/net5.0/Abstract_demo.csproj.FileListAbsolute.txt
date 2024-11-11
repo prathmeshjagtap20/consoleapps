@@ -1,0 +1,15 @@
+D:\consoleapps\Abstract_demo\bin\Debug\net5.0\Abstract_demo.exe
+D:\consoleapps\Abstract_demo\bin\Debug\net5.0\Abstract_demo.deps.json
+D:\consoleapps\Abstract_demo\bin\Debug\net5.0\Abstract_demo.runtimeconfig.json
+D:\consoleapps\Abstract_demo\bin\Debug\net5.0\Abstract_demo.runtimeconfig.dev.json
+D:\consoleapps\Abstract_demo\bin\Debug\net5.0\Abstract_demo.dll
+D:\consoleapps\Abstract_demo\bin\Debug\net5.0\Abstract_demo.pdb
+D:\consoleapps\Abstract_demo\obj\Debug\net5.0\Abstract_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\Abstract_demo\obj\Debug\net5.0\Abstract_demo.AssemblyInfoInputs.cache
+D:\consoleapps\Abstract_demo\obj\Debug\net5.0\Abstract_demo.AssemblyInfo.cs
+D:\consoleapps\Abstract_demo\obj\Debug\net5.0\Abstract_demo.csproj.CoreCompileInputs.cache
+D:\consoleapps\Abstract_demo\obj\Debug\net5.0\Abstract_demo.dll
+D:\consoleapps\Abstract_demo\obj\Debug\net5.0\refint\Abstract_demo.dll
+D:\consoleapps\Abstract_demo\obj\Debug\net5.0\Abstract_demo.pdb
+D:\consoleapps\Abstract_demo\obj\Debug\net5.0\Abstract_demo.genruntimeconfig.cache
+D:\consoleapps\Abstract_demo\obj\Debug\net5.0\ref\Abstract_demo.dll

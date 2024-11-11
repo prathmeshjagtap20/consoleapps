@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\consoleapps\\Extension_Method_Use\\Extension_Method_Use.csproj": {}
+  },
+  "projects": {
+    "D:\\consoleapps\\CustomLibrary\\CustomLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\consoleapps\\CustomLibrary\\CustomLibrary.csproj",
+        "projectName": "CustomLibrary",
+        "projectPath": "D:\\consoleapps\\CustomLibrary\\CustomLibrary.csproj",
+        "packagesPath": "C:\\Users\\prathmesh.jagtap\\.nuget\\packages\\",
+        "outputPath": "D:\\consoleapps\\CustomLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prathmesh.jagtap\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\consoleapps\\Extension_Method_Use\\Extension_Method_Use.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\consoleapps\\Extension_Method_Use\\Extension_Method_Use.csproj",
+        "projectName": "Extension_Method_Use",
+        "projectPath": "D:\\consoleapps\\Extension_Method_Use\\Extension_Method_Use.csproj",
+        "packagesPath": "C:\\Users\\prathmesh.jagtap\\.nuget\\packages\\",
+        "outputPath": "D:\\consoleapps\\Extension_Method_Use\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prathmesh.jagtap\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\consoleapps\\CustomLibrary\\CustomLibrary.csproj": {
+                "projectPath": "D:\\consoleapps\\CustomLibrary\\CustomLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

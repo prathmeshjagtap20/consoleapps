@@ -1,0 +1,14 @@
+D:\consoleapps\Task_Demo\bin\Debug\net8.0\Task_Demo.exe
+D:\consoleapps\Task_Demo\bin\Debug\net8.0\Task_Demo.deps.json
+D:\consoleapps\Task_Demo\bin\Debug\net8.0\Task_Demo.runtimeconfig.json
+D:\consoleapps\Task_Demo\bin\Debug\net8.0\Task_Demo.dll
+D:\consoleapps\Task_Demo\bin\Debug\net8.0\Task_Demo.pdb
+D:\consoleapps\Task_Demo\obj\Debug\net8.0\Task_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\Task_Demo\obj\Debug\net8.0\Task_Demo.AssemblyInfoInputs.cache
+D:\consoleapps\Task_Demo\obj\Debug\net8.0\Task_Demo.AssemblyInfo.cs
+D:\consoleapps\Task_Demo\obj\Debug\net8.0\Task_Demo.csproj.CoreCompileInputs.cache
+D:\consoleapps\Task_Demo\obj\Debug\net8.0\Task_Demo.dll
+D:\consoleapps\Task_Demo\obj\Debug\net8.0\refint\Task_Demo.dll
+D:\consoleapps\Task_Demo\obj\Debug\net8.0\Task_Demo.pdb
+D:\consoleapps\Task_Demo\obj\Debug\net8.0\Task_Demo.genruntimeconfig.cache
+D:\consoleapps\Task_Demo\obj\Debug\net8.0\ref\Task_Demo.dll

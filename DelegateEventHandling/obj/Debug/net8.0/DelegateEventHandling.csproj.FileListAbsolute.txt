@@ -1,0 +1,14 @@
+D:\consoleapps\DelegateEventHandling\bin\Debug\net8.0\DelegateEventHandling.exe
+D:\consoleapps\DelegateEventHandling\bin\Debug\net8.0\DelegateEventHandling.deps.json
+D:\consoleapps\DelegateEventHandling\bin\Debug\net8.0\DelegateEventHandling.runtimeconfig.json
+D:\consoleapps\DelegateEventHandling\bin\Debug\net8.0\DelegateEventHandling.dll
+D:\consoleapps\DelegateEventHandling\bin\Debug\net8.0\DelegateEventHandling.pdb
+D:\consoleapps\DelegateEventHandling\obj\Debug\net8.0\DelegateEventHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\DelegateEventHandling\obj\Debug\net8.0\DelegateEventHandling.AssemblyInfoInputs.cache
+D:\consoleapps\DelegateEventHandling\obj\Debug\net8.0\DelegateEventHandling.AssemblyInfo.cs
+D:\consoleapps\DelegateEventHandling\obj\Debug\net8.0\DelegateEventHandling.csproj.CoreCompileInputs.cache
+D:\consoleapps\DelegateEventHandling\obj\Debug\net8.0\DelegateEventHandling.dll
+D:\consoleapps\DelegateEventHandling\obj\Debug\net8.0\refint\DelegateEventHandling.dll
+D:\consoleapps\DelegateEventHandling\obj\Debug\net8.0\DelegateEventHandling.pdb
+D:\consoleapps\DelegateEventHandling\obj\Debug\net8.0\DelegateEventHandling.genruntimeconfig.cache
+D:\consoleapps\DelegateEventHandling\obj\Debug\net8.0\ref\DelegateEventHandling.dll

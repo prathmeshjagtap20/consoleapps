@@ -1,0 +1,11 @@
+D:\consoleapps\CustomLibrary\bin\Debug\net8.0\CustomLibrary.deps.json
+D:\consoleapps\CustomLibrary\bin\Debug\net8.0\CustomLibrary.dll
+D:\consoleapps\CustomLibrary\bin\Debug\net8.0\CustomLibrary.pdb
+D:\consoleapps\CustomLibrary\obj\Debug\net8.0\CustomLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\CustomLibrary\obj\Debug\net8.0\CustomLibrary.AssemblyInfoInputs.cache
+D:\consoleapps\CustomLibrary\obj\Debug\net8.0\CustomLibrary.AssemblyInfo.cs
+D:\consoleapps\CustomLibrary\obj\Debug\net8.0\CustomLibrary.csproj.CoreCompileInputs.cache
+D:\consoleapps\CustomLibrary\obj\Debug\net8.0\CustomLibrary.dll
+D:\consoleapps\CustomLibrary\obj\Debug\net8.0\refint\CustomLibrary.dll
+D:\consoleapps\CustomLibrary\obj\Debug\net8.0\CustomLibrary.pdb
+D:\consoleapps\CustomLibrary\obj\Debug\net8.0\ref\CustomLibrary.dll

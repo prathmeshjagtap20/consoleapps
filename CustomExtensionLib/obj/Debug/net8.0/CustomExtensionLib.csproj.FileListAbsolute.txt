@@ -1,0 +1,15 @@
+D:\consoleapps\CustomExtensionLib\bin\Debug\net8.0\CustomExtensionLib.exe
+D:\consoleapps\CustomExtensionLib\bin\Debug\net8.0\CustomExtensionLib.deps.json
+D:\consoleapps\CustomExtensionLib\bin\Debug\net8.0\CustomExtensionLib.runtimeconfig.json
+D:\consoleapps\CustomExtensionLib\bin\Debug\net8.0\CustomExtensionLib.dll
+D:\consoleapps\CustomExtensionLib\bin\Debug\net8.0\CustomExtensionLib.pdb
+D:\consoleapps\CustomExtensionLib\obj\Debug\net8.0\CustomExtensionLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\CustomExtensionLib\obj\Debug\net8.0\CustomExtensionLib.AssemblyInfoInputs.cache
+D:\consoleapps\CustomExtensionLib\obj\Debug\net8.0\CustomExtensionLib.AssemblyInfo.cs
+D:\consoleapps\CustomExtensionLib\obj\Debug\net8.0\CustomExtensionLib.csproj.CoreCompileInputs.cache
+D:\consoleapps\CustomExtensionLib\obj\Debug\net8.0\CustomExtensionLib.dll
+D:\consoleapps\CustomExtensionLib\obj\Debug\net8.0\refint\CustomExtensionLib.dll
+D:\consoleapps\CustomExtensionLib\obj\Debug\net8.0\CustomExtensionLib.pdb
+D:\consoleapps\CustomExtensionLib\obj\Debug\net8.0\CustomExtensionLib.genruntimeconfig.cache
+D:\consoleapps\CustomExtensionLib\obj\Debug\net8.0\ref\CustomExtensionLib.dll
+D:\consoleapps\CustomExtensionLib\obj\Debug\net8.0\CustomExtensionLib.csproj.AssemblyReference.cache

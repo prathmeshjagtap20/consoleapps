@@ -1,0 +1,15 @@
+D:\consoleapps\IComarable_Interface\bin\Debug\net5.0\IComarable_Interface.exe
+D:\consoleapps\IComarable_Interface\bin\Debug\net5.0\IComarable_Interface.deps.json
+D:\consoleapps\IComarable_Interface\bin\Debug\net5.0\IComarable_Interface.runtimeconfig.json
+D:\consoleapps\IComarable_Interface\bin\Debug\net5.0\IComarable_Interface.runtimeconfig.dev.json
+D:\consoleapps\IComarable_Interface\bin\Debug\net5.0\IComarable_Interface.dll
+D:\consoleapps\IComarable_Interface\bin\Debug\net5.0\IComarable_Interface.pdb
+D:\consoleapps\IComarable_Interface\obj\Debug\net5.0\IComarable_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\IComarable_Interface\obj\Debug\net5.0\IComarable_Interface.AssemblyInfoInputs.cache
+D:\consoleapps\IComarable_Interface\obj\Debug\net5.0\IComarable_Interface.AssemblyInfo.cs
+D:\consoleapps\IComarable_Interface\obj\Debug\net5.0\IComarable_Interface.csproj.CoreCompileInputs.cache
+D:\consoleapps\IComarable_Interface\obj\Debug\net5.0\IComarable_Interface.dll
+D:\consoleapps\IComarable_Interface\obj\Debug\net5.0\refint\IComarable_Interface.dll
+D:\consoleapps\IComarable_Interface\obj\Debug\net5.0\IComarable_Interface.pdb
+D:\consoleapps\IComarable_Interface\obj\Debug\net5.0\IComarable_Interface.genruntimeconfig.cache
+D:\consoleapps\IComarable_Interface\obj\Debug\net5.0\ref\IComarable_Interface.dll

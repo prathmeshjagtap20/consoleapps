@@ -1,0 +1,14 @@
+D:\consoleapps\Multithreading_Synchronization\bin\Debug\net8.0\Multithreading_Synchronization.exe
+D:\consoleapps\Multithreading_Synchronization\bin\Debug\net8.0\Multithreading_Synchronization.deps.json
+D:\consoleapps\Multithreading_Synchronization\bin\Debug\net8.0\Multithreading_Synchronization.runtimeconfig.json
+D:\consoleapps\Multithreading_Synchronization\bin\Debug\net8.0\Multithreading_Synchronization.dll
+D:\consoleapps\Multithreading_Synchronization\bin\Debug\net8.0\Multithreading_Synchronization.pdb
+D:\consoleapps\Multithreading_Synchronization\obj\Debug\net8.0\Multithreading_Synchronization.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\Multithreading_Synchronization\obj\Debug\net8.0\Multithreading_Synchronization.AssemblyInfoInputs.cache
+D:\consoleapps\Multithreading_Synchronization\obj\Debug\net8.0\Multithreading_Synchronization.AssemblyInfo.cs
+D:\consoleapps\Multithreading_Synchronization\obj\Debug\net8.0\Multithreading_Synchronization.csproj.CoreCompileInputs.cache
+D:\consoleapps\Multithreading_Synchronization\obj\Debug\net8.0\Multithreading_Synchronization.dll
+D:\consoleapps\Multithreading_Synchronization\obj\Debug\net8.0\refint\Multithreading_Synchronization.dll
+D:\consoleapps\Multithreading_Synchronization\obj\Debug\net8.0\Multithreading_Synchronization.pdb
+D:\consoleapps\Multithreading_Synchronization\obj\Debug\net8.0\Multithreading_Synchronization.genruntimeconfig.cache
+D:\consoleapps\Multithreading_Synchronization\obj\Debug\net8.0\ref\Multithreading_Synchronization.dll

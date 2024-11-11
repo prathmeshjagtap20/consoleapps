@@ -1,0 +1,14 @@
+D:\consoleapps\MultiThreadingDemo\bin\Debug\net8.0\MultiThreadingDemo.exe
+D:\consoleapps\MultiThreadingDemo\bin\Debug\net8.0\MultiThreadingDemo.deps.json
+D:\consoleapps\MultiThreadingDemo\bin\Debug\net8.0\MultiThreadingDemo.runtimeconfig.json
+D:\consoleapps\MultiThreadingDemo\bin\Debug\net8.0\MultiThreadingDemo.dll
+D:\consoleapps\MultiThreadingDemo\bin\Debug\net8.0\MultiThreadingDemo.pdb
+D:\consoleapps\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.AssemblyInfoInputs.cache
+D:\consoleapps\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.AssemblyInfo.cs
+D:\consoleapps\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.csproj.CoreCompileInputs.cache
+D:\consoleapps\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.dll
+D:\consoleapps\MultiThreadingDemo\obj\Debug\net8.0\refint\MultiThreadingDemo.dll
+D:\consoleapps\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.pdb
+D:\consoleapps\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.genruntimeconfig.cache
+D:\consoleapps\MultiThreadingDemo\obj\Debug\net8.0\ref\MultiThreadingDemo.dll

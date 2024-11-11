@@ -1,0 +1,15 @@
+D:\consoleapps\class_obj\bin\Debug\net5.0\class_obj.exe
+D:\consoleapps\class_obj\bin\Debug\net5.0\class_obj.deps.json
+D:\consoleapps\class_obj\bin\Debug\net5.0\class_obj.runtimeconfig.json
+D:\consoleapps\class_obj\bin\Debug\net5.0\class_obj.runtimeconfig.dev.json
+D:\consoleapps\class_obj\bin\Debug\net5.0\class_obj.dll
+D:\consoleapps\class_obj\bin\Debug\net5.0\class_obj.pdb
+D:\consoleapps\class_obj\obj\Debug\net5.0\class_obj.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\class_obj\obj\Debug\net5.0\class_obj.AssemblyInfoInputs.cache
+D:\consoleapps\class_obj\obj\Debug\net5.0\class_obj.AssemblyInfo.cs
+D:\consoleapps\class_obj\obj\Debug\net5.0\class_obj.csproj.CoreCompileInputs.cache
+D:\consoleapps\class_obj\obj\Debug\net5.0\class_obj.dll
+D:\consoleapps\class_obj\obj\Debug\net5.0\refint\class_obj.dll
+D:\consoleapps\class_obj\obj\Debug\net5.0\class_obj.pdb
+D:\consoleapps\class_obj\obj\Debug\net5.0\class_obj.genruntimeconfig.cache
+D:\consoleapps\class_obj\obj\Debug\net5.0\ref\class_obj.dll

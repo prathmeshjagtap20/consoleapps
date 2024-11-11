@@ -1,0 +1,14 @@
+D:\consoleapps\DelegateConsole\bin\Debug\net8.0\DelegateConsole.exe
+D:\consoleapps\DelegateConsole\bin\Debug\net8.0\DelegateConsole.deps.json
+D:\consoleapps\DelegateConsole\bin\Debug\net8.0\DelegateConsole.runtimeconfig.json
+D:\consoleapps\DelegateConsole\bin\Debug\net8.0\DelegateConsole.dll
+D:\consoleapps\DelegateConsole\bin\Debug\net8.0\DelegateConsole.pdb
+D:\consoleapps\DelegateConsole\obj\Debug\net8.0\DelegateConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\DelegateConsole\obj\Debug\net8.0\DelegateConsole.AssemblyInfoInputs.cache
+D:\consoleapps\DelegateConsole\obj\Debug\net8.0\DelegateConsole.AssemblyInfo.cs
+D:\consoleapps\DelegateConsole\obj\Debug\net8.0\DelegateConsole.csproj.CoreCompileInputs.cache
+D:\consoleapps\DelegateConsole\obj\Debug\net8.0\DelegateConsole.dll
+D:\consoleapps\DelegateConsole\obj\Debug\net8.0\refint\DelegateConsole.dll
+D:\consoleapps\DelegateConsole\obj\Debug\net8.0\DelegateConsole.pdb
+D:\consoleapps\DelegateConsole\obj\Debug\net8.0\DelegateConsole.genruntimeconfig.cache
+D:\consoleapps\DelegateConsole\obj\Debug\net8.0\ref\DelegateConsole.dll

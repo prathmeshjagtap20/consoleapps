@@ -1,0 +1,14 @@
+D:\consoleapps\IEnumerable_Interface\bin\Debug\net8.0\IEnumerable_Interface.exe
+D:\consoleapps\IEnumerable_Interface\bin\Debug\net8.0\IEnumerable_Interface.deps.json
+D:\consoleapps\IEnumerable_Interface\bin\Debug\net8.0\IEnumerable_Interface.runtimeconfig.json
+D:\consoleapps\IEnumerable_Interface\bin\Debug\net8.0\IEnumerable_Interface.dll
+D:\consoleapps\IEnumerable_Interface\bin\Debug\net8.0\IEnumerable_Interface.pdb
+D:\consoleapps\IEnumerable_Interface\obj\Debug\net8.0\IEnumerable_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\IEnumerable_Interface\obj\Debug\net8.0\IEnumerable_Interface.AssemblyInfoInputs.cache
+D:\consoleapps\IEnumerable_Interface\obj\Debug\net8.0\IEnumerable_Interface.AssemblyInfo.cs
+D:\consoleapps\IEnumerable_Interface\obj\Debug\net8.0\IEnumerable_Interface.csproj.CoreCompileInputs.cache
+D:\consoleapps\IEnumerable_Interface\obj\Debug\net8.0\IEnumerable_Interface.dll
+D:\consoleapps\IEnumerable_Interface\obj\Debug\net8.0\refint\IEnumerable_Interface.dll
+D:\consoleapps\IEnumerable_Interface\obj\Debug\net8.0\IEnumerable_Interface.pdb
+D:\consoleapps\IEnumerable_Interface\obj\Debug\net8.0\IEnumerable_Interface.genruntimeconfig.cache
+D:\consoleapps\IEnumerable_Interface\obj\Debug\net8.0\ref\IEnumerable_Interface.dll

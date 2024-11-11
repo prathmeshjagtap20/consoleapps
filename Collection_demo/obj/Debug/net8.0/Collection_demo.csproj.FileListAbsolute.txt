@@ -1,0 +1,14 @@
+D:\consoleapps\Collection_demo\bin\Debug\net8.0\Collection_demo.exe
+D:\consoleapps\Collection_demo\bin\Debug\net8.0\Collection_demo.deps.json
+D:\consoleapps\Collection_demo\bin\Debug\net8.0\Collection_demo.runtimeconfig.json
+D:\consoleapps\Collection_demo\bin\Debug\net8.0\Collection_demo.dll
+D:\consoleapps\Collection_demo\bin\Debug\net8.0\Collection_demo.pdb
+D:\consoleapps\Collection_demo\obj\Debug\net8.0\Collection_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\Collection_demo\obj\Debug\net8.0\Collection_demo.AssemblyInfoInputs.cache
+D:\consoleapps\Collection_demo\obj\Debug\net8.0\Collection_demo.AssemblyInfo.cs
+D:\consoleapps\Collection_demo\obj\Debug\net8.0\Collection_demo.csproj.CoreCompileInputs.cache
+D:\consoleapps\Collection_demo\obj\Debug\net8.0\Collection_demo.dll
+D:\consoleapps\Collection_demo\obj\Debug\net8.0\refint\Collection_demo.dll
+D:\consoleapps\Collection_demo\obj\Debug\net8.0\Collection_demo.pdb
+D:\consoleapps\Collection_demo\obj\Debug\net8.0\Collection_demo.genruntimeconfig.cache
+D:\consoleapps\Collection_demo\obj\Debug\net8.0\ref\Collection_demo.dll

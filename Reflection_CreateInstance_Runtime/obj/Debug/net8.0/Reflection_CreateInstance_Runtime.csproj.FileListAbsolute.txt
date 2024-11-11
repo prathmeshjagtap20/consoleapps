@@ -1,0 +1,14 @@
+D:\consoleapps\Reflection_CreateInstance_Runtime\bin\Debug\net8.0\Reflection_CreateInstance_Runtime.exe
+D:\consoleapps\Reflection_CreateInstance_Runtime\bin\Debug\net8.0\Reflection_CreateInstance_Runtime.deps.json
+D:\consoleapps\Reflection_CreateInstance_Runtime\bin\Debug\net8.0\Reflection_CreateInstance_Runtime.runtimeconfig.json
+D:\consoleapps\Reflection_CreateInstance_Runtime\bin\Debug\net8.0\Reflection_CreateInstance_Runtime.dll
+D:\consoleapps\Reflection_CreateInstance_Runtime\bin\Debug\net8.0\Reflection_CreateInstance_Runtime.pdb
+D:\consoleapps\Reflection_CreateInstance_Runtime\obj\Debug\net8.0\Reflection_CreateInstance_Runtime.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\Reflection_CreateInstance_Runtime\obj\Debug\net8.0\Reflection_CreateInstance_Runtime.AssemblyInfoInputs.cache
+D:\consoleapps\Reflection_CreateInstance_Runtime\obj\Debug\net8.0\Reflection_CreateInstance_Runtime.AssemblyInfo.cs
+D:\consoleapps\Reflection_CreateInstance_Runtime\obj\Debug\net8.0\Reflection_CreateInstance_Runtime.csproj.CoreCompileInputs.cache
+D:\consoleapps\Reflection_CreateInstance_Runtime\obj\Debug\net8.0\Reflection_CreateInstance_Runtime.dll
+D:\consoleapps\Reflection_CreateInstance_Runtime\obj\Debug\net8.0\refint\Reflection_CreateInstance_Runtime.dll
+D:\consoleapps\Reflection_CreateInstance_Runtime\obj\Debug\net8.0\Reflection_CreateInstance_Runtime.pdb
+D:\consoleapps\Reflection_CreateInstance_Runtime\obj\Debug\net8.0\Reflection_CreateInstance_Runtime.genruntimeconfig.cache
+D:\consoleapps\Reflection_CreateInstance_Runtime\obj\Debug\net8.0\ref\Reflection_CreateInstance_Runtime.dll

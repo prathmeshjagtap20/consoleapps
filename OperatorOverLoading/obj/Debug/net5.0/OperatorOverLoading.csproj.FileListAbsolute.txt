@@ -1,0 +1,15 @@
+D:\consoleapps\OperatorOverLoading\obj\Debug\net5.0\OperatorOverLoading.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\OperatorOverLoading\obj\Debug\net5.0\OperatorOverLoading.AssemblyInfoInputs.cache
+D:\consoleapps\OperatorOverLoading\obj\Debug\net5.0\OperatorOverLoading.AssemblyInfo.cs
+D:\consoleapps\OperatorOverLoading\obj\Debug\net5.0\OperatorOverLoading.csproj.CoreCompileInputs.cache
+D:\consoleapps\OperatorOverLoading\bin\Debug\net5.0\OperatorOverLoading.exe
+D:\consoleapps\OperatorOverLoading\bin\Debug\net5.0\OperatorOverLoading.deps.json
+D:\consoleapps\OperatorOverLoading\bin\Debug\net5.0\OperatorOverLoading.runtimeconfig.json
+D:\consoleapps\OperatorOverLoading\bin\Debug\net5.0\OperatorOverLoading.runtimeconfig.dev.json
+D:\consoleapps\OperatorOverLoading\bin\Debug\net5.0\OperatorOverLoading.dll
+D:\consoleapps\OperatorOverLoading\bin\Debug\net5.0\OperatorOverLoading.pdb
+D:\consoleapps\OperatorOverLoading\obj\Debug\net5.0\OperatorOverLoading.dll
+D:\consoleapps\OperatorOverLoading\obj\Debug\net5.0\refint\OperatorOverLoading.dll
+D:\consoleapps\OperatorOverLoading\obj\Debug\net5.0\OperatorOverLoading.pdb
+D:\consoleapps\OperatorOverLoading\obj\Debug\net5.0\OperatorOverLoading.genruntimeconfig.cache
+D:\consoleapps\OperatorOverLoading\obj\Debug\net5.0\ref\OperatorOverLoading.dll

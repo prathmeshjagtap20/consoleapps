@@ -1,0 +1,14 @@
+D:\consoleapps\Partial_class\bin\Debug\net8.0\Partial_class.exe
+D:\consoleapps\Partial_class\bin\Debug\net8.0\Partial_class.deps.json
+D:\consoleapps\Partial_class\bin\Debug\net8.0\Partial_class.runtimeconfig.json
+D:\consoleapps\Partial_class\bin\Debug\net8.0\Partial_class.dll
+D:\consoleapps\Partial_class\bin\Debug\net8.0\Partial_class.pdb
+D:\consoleapps\Partial_class\obj\Debug\net8.0\Partial_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\Partial_class\obj\Debug\net8.0\Partial_class.AssemblyInfoInputs.cache
+D:\consoleapps\Partial_class\obj\Debug\net8.0\Partial_class.AssemblyInfo.cs
+D:\consoleapps\Partial_class\obj\Debug\net8.0\Partial_class.csproj.CoreCompileInputs.cache
+D:\consoleapps\Partial_class\obj\Debug\net8.0\Partial_class.dll
+D:\consoleapps\Partial_class\obj\Debug\net8.0\refint\Partial_class.dll
+D:\consoleapps\Partial_class\obj\Debug\net8.0\Partial_class.pdb
+D:\consoleapps\Partial_class\obj\Debug\net8.0\Partial_class.genruntimeconfig.cache
+D:\consoleapps\Partial_class\obj\Debug\net8.0\ref\Partial_class.dll

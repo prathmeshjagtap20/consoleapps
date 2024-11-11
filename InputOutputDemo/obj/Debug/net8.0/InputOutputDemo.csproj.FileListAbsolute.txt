@@ -1,0 +1,14 @@
+D:\consoleapps\InputOutputDemo\bin\Debug\net8.0\InputOutputDemo.exe
+D:\consoleapps\InputOutputDemo\bin\Debug\net8.0\InputOutputDemo.deps.json
+D:\consoleapps\InputOutputDemo\bin\Debug\net8.0\InputOutputDemo.runtimeconfig.json
+D:\consoleapps\InputOutputDemo\bin\Debug\net8.0\InputOutputDemo.dll
+D:\consoleapps\InputOutputDemo\bin\Debug\net8.0\InputOutputDemo.pdb
+D:\consoleapps\InputOutputDemo\obj\Debug\net8.0\InputOutputDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\InputOutputDemo\obj\Debug\net8.0\InputOutputDemo.AssemblyInfoInputs.cache
+D:\consoleapps\InputOutputDemo\obj\Debug\net8.0\InputOutputDemo.AssemblyInfo.cs
+D:\consoleapps\InputOutputDemo\obj\Debug\net8.0\InputOutputDemo.csproj.CoreCompileInputs.cache
+D:\consoleapps\InputOutputDemo\obj\Debug\net8.0\InputOutputDemo.dll
+D:\consoleapps\InputOutputDemo\obj\Debug\net8.0\refint\InputOutputDemo.dll
+D:\consoleapps\InputOutputDemo\obj\Debug\net8.0\InputOutputDemo.pdb
+D:\consoleapps\InputOutputDemo\obj\Debug\net8.0\InputOutputDemo.genruntimeconfig.cache
+D:\consoleapps\InputOutputDemo\obj\Debug\net8.0\ref\InputOutputDemo.dll

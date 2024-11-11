@@ -1,0 +1,14 @@
+D:\consoleapps\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.exe
+D:\consoleapps\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.deps.json
+D:\consoleapps\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.runtimeconfig.json
+D:\consoleapps\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.dll
+D:\consoleapps\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.pdb
+D:\consoleapps\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\consoleapps\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.AssemblyInfoInputs.cache
+D:\consoleapps\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.AssemblyInfo.cs
+D:\consoleapps\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.csproj.CoreCompileInputs.cache
+D:\consoleapps\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.dll
+D:\consoleapps\ReflectionDemo\obj\Debug\net8.0\refint\ReflectionDemo.dll
+D:\consoleapps\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.pdb
+D:\consoleapps\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.genruntimeconfig.cache
+D:\consoleapps\ReflectionDemo\obj\Debug\net8.0\ref\ReflectionDemo.dll
